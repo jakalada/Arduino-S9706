@@ -1,0 +1,28 @@
+{
+  "name": "S9706",
+  "description": "A color sensor library for Arduino",
+  "keywords": "sensor, color",
+  "authors":
+  {
+    "name": "Hideki Hamada",
+    "email": "jakalada.net@gmail.com"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jakalada/Arduino-S9706.git"
+  },
+  "downloadUrl": "https://github.com/jakalada/Arduino-S9706/master/archive/master.zip",
+  "version": "0.1",
+  "url": "https://github.com/jakalada/Arduino-S9706",
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "espressif"
+  ],
+  "examples":
+  [
+    "examples/*/*.ino"
+  ]
+}

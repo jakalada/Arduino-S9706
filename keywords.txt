@@ -1,0 +1,12 @@
+# KEYWORD1 specifies datatypes
+
+S9706	KEYWORD1
+
+# KEYWORD2 specifies methods and functions
+
+begin	KEYWORD2
+update	KEYWORD2
+getRed	KEYWORD2
+getGreen	KEYWORD2
+getBlue	KEYWORD2
+
