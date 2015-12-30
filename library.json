@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/jakalada/Arduino-S9706.git"
   },
-  "downloadUrl": "https://github.com/jakalada/Arduino-S9706/master/archive/master.zip",
   "version": "0.1",
   "url": "https://github.com/jakalada/Arduino-S9706",
   "frameworks": "arduino",
@@ -20,9 +19,5 @@
   [
     "atmelavr",
     "espressif"
-  ],
-  "examples":
-  [
-    "examples/*/*.ino"
   ]
 }
