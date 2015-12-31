@@ -1,6 +1,8 @@
 #ifndef S9706_h
 #define S9706_h
 
+#include "Arduino.h"
+
 #define S9706_MODE_HIGH 1
 #define S9706_MODE_LOW  2
 
