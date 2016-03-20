@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/jakalada/Arduino-S9706.git"
   },
-  "version": "0.1",
+  "version": "0.1.1",
   "url": "https://github.com/jakalada/Arduino-S9706",
   "frameworks": "arduino",
   "platforms":
