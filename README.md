@@ -4,9 +4,9 @@
 
 S9706 (A color sensor) library for Arduino.
 
-## Download
+## Install
 
-[download zip file](https://github.com/jakalada/Arduino-S9706/archive/master.zip)
+[Download the latest library release.](https://github.com/jakalada/Arduino-S9706/releases/latest)
 
 ## Examples
 
