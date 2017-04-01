@@ -10,5 +10,5 @@ S9706 (A color sensor) library for Arduino.
 
 ## Examples
 
-[please see example code](./examples/ReadRGB/ReadRGB.ino)
+[Please see example code.](./examples)
 
